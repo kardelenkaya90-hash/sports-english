@@ -1,0 +1,349 @@
+
+============================================================
+KATILIMCI: Antrenör  (26 alinti)
+============================================================
+
+  [competition] -- 2 alinti:
+    --> [social] spor ingilizcesi o sahaya adım attığı andan
+itibaren görebiliyorum. karşı rakibin sporcuları, antrenörü,
+farklı takımlardaki sporcularla iletişim kurmak için önemli. [/social]
+    --> [terminology] Spor İngilizcesi terimlerine hakim değiller
+fakat maç içerisinde ihtiyaç duyuyorlar. [/terminology]
+
+  [course_needs] -- 2 alinti:
+    --> Gramer ağırlıklı değil de, daha çok branşa yönelik,
+daha basit, konuşma diline yönelik bir şey olduğunu düşünüyorum.
+    --> Konuşma. Konuşma en önemlisi. Genelde yazılı iletişimi
+mesela bilgi belgelerimizi takımın menajerleri yapar.
+
+  [daily_life] -- 1 alinti:
+    --> [speaking] bir pasaport işlemi için bile, orada bir sıraya
+girdiğinde ya da bir şey satın aldığında, çok basit bir şeyde bile
+ingilizceye ihtiyaç var. [/speaking]
+
+  [education_system] -- 2 alinti:
+    --> bizde ülkemizdeki ingilizce eğitim üst seviyede
+konuşma endeksli olmadığı için hep gramer endeksli ve çocuklar da
+bu anlamda ülke olarak sıkıntı yaşıyoruz.
+    --> küçük yaştan itibaren nasıl spor eğitimi veriyorsak
+ingilizce eğitimini de almış olmalı çocuk. ülkemizde de ingilizce
+eğitimine başlaması gerekiyor.
+
+  [foreign_coach] -- 1 alinti:
+    --> biz sadece türk antrenörlerle çalışmıyoruz rus
+ukraynalı ingiliz amerikalı antrenörlerle de çalışıyoruz.
+ingilizce aktif olan sporcu öne geçiyor antrenörle daha rahat
+iletişim kuruyor.
+
+  [listening] -- 1 alinti:
+    --> Dinleme becerisi. Dinleme becerisinde zorlanıyorlar.
+Dikkatleri dağılıyor, panik anında ya da stres yaşadıklarında,
+korku yaşadıklarında dinleme konusunda sıkıntı yaşadıklarını
+gözlemledim.
+
+  [motivation] -- 3 alinti:
+    --> Motive değiller. ihtiyacı olduğunu düşünmüyorlar bence
+ya da onlara ne katacağını bilmedikleri için. çevirmen geliyor
+zaten yanımızda, menajer geliyor, o her şeyi hallediyor,
+ihtiyaç kalmıyor.
+    --> [social] yurtdışına daha çok gittikçe daha çok öğrenmek
+istiyorlar. Konfederasyonlar arası romanya'da oturup sohbet etmeye
+başlamışlar ingilizce bilenler konuşuyor. [/social]
+    --> açıkçası sporcuların da hedefleri olmaya başladı.
+avrupa dünya ve olimpiyat şampiyonu sporcular çıktı. adam avrupa'da
+şampiyon oluyor ve mikrofon uzatılıyor ingilizce bir şeyler
+söylemesi gerekiyor.
+
+  [professional] -- 4 alinti:
+    --> yabancı ülkeye transfer oldu mesela. ingilizce bilmiyorsa
+talep edilmez, gidemez. ingilizce bilen sporcular talep ediliyor
+genelde.
+    --> milli sporcu üniversiteye gittiğimde spor bölümünden
+antrenör olacaksa hakem olacaksa gene faydası var. ingilizce
+bilmek bence hayatının boşluğunu tamamlamak demek.
+    --> milli sporcular kesinlikle ingilizce öğrenmeli çünkü
+youtube gibi görsel kaynaklardan da birçok hareketi tekniğini
+öğrenebiliyor artık. bu kaynaklarda anlatım yüzde yüz ingilizce.
+    --> uluslararası camiada kendine bir yer edinebilmesi için
+sporcu antrenör ve yönetici için en önemli şey ingilizce bence.
+
+  [referee] -- 1 alinti:
+    --> [speaking] daha hakkını bile savunamıyor. maç yani farklı
+bir karar oluyor ya da itiraz etmesi gereken bir şey oluyor
+ifade edemiyor. [/speaking]
+
+  [social] -- 2 alinti:
+    --> daha çok sosyal ilişkiler. sosyalleşmeyi yaparsanız o
+başarıyı da gidiş yollarını bulabilirsiniz.
+    --> [competition] sporcu ne kadar hakemlerle iletişim kurabilirse
+bu onun pozitif olarak yansıyor yarışmalarda. selamlaşması
+hal hatır sorabilmesi arkadaş çevresi oluşturabilmesi önemli. [/competition]
+
+  [speaking] -- 4 alinti:
+    --> [social] en basit gittiğinde farklı bir takımla kaynaşma,
+iletişim kurma amaçlı. Ama çok basit şeyler için bile iletişim
+kuramıyorlar maalesef. [/social]
+    --> [competition] saha içerisinde daha özgüvenli oluyor
+kendini ifade etme anlamında. karşı taraf bir taktik veriyor
+ingilizce olarak o anlamıyor. bildiğin zaman karşı tarafın
+setini okuyabilir ama bilmediği için hiçbir şey yapamıyor. [/competition]
+    --> Konuşma/sözlü iletişimde zorlanıyorlar. Sözlü iletişimde
+kendi derdini anlatamıyor. bana vuruyor ya da formamı çekiyor
+diyemiyor mesela yarışma esnasında.
+    --> pratik anlamda konuşma en önemlisi çünkü konuşursanız
+derdinizi anlatabilirsiniz. en önemlisi bence pratik işi konuşma
+yeteneğine sahip olma.
+
+  [terminology] -- 3 alinti:
+    --> Branşa özgün terimlerimiz var. sporcular bunu bilmiyorlar
+hiç hakim değiller. mesela "stealing" diye bir terim var bizde
+ama çoğu bilmiyor.
+    --> teknik terimlerimiz var. alet bazında başlıyorlar
+öğrenmeye. teknik terimleri çözmek çok zor değil ingilizce
+eğitimini aldıktan sonra.
+    --> [competition] sporcu salto yapıyor. itiraz edebilmesi
+için o salto isimlerini bilmesi lazım. hayır toplu yapmadı açık
+yaptı gibi. bu terimlere hakim olursa çok ileri düzeyde ingilizce
+gerek kalmıyor. [/competition]
+
+============================================================
+KATILIMCI: Öğretmen  (24 alinti)
+============================================================
+
+  [anxiety] -- 3 alinti:
+    --> hata yaparım korkusu. kendini zayıf hissettiği için çocuk
+geri çekiyor. konuşmaktan çekiniyor.
+    --> başladığımızda ingilizceye dair hemen hemen hiçbir şey
+bilmiyorlar. kendilerini ifade etme anlamında sıkıntıları var.
+her şeyde sıkıntı çekiyorlar.
+    --> özgüven kazanacaklar. yapabildiklerini gördükçe daha bir
+özgüvenli daha bir motivasyonları yükselmiş olarak derslere
+giriyorlar.
+
+  [course_needs] -- 4 alinti:
+    --> amacımız sporla ilgili yurt dışına gittiğimde
+olimpiyatlara orada kendini idame edebilmesi ve spor
+müsabakalarında anlaşılabilmesi. daha çok konuşma odaklı
+gittik.
+    --> genel ingilizce den farkı belli spesifik bir alana
+yönelmesi. sporla ilgili oluyor işte yurtdışına çıkışta ilgili
+oluyor ya da çocukların spor dalı ile ilgili oluyor.
+    --> [listening][speaking] dinleme ve konuşma becerilerinin
+gelişmesi önemli. sıkça dinleme yapmaları konuşma becerileri için
+de pratik yapmaları gerekiyor. [/speaking][/listening]
+    --> spor ingilizcesi müsabakada kendini ifade edebilmesi
+müsabakalarda yarışlarda terminolojiyi bilmesi onu pratiğe
+dökülmesi. genel ingilizce den daha farklı tabi ki.
+
+  [education_system] -- 1 alinti:
+    --> sizi dersten çıkıyorsunuz tamamen türkçe dünyasının
+içine giriyorsunuz. dersler süresince öğrendiğiniz her şeyi bir
+sonraki derse kadar rafa kaldırırsanız yerleşmesi çok kolay
+olmuyor.
+
+  [listening] -- 3 alinti:
+    --> [speaking] Beceri anlamda söylersek dinleme ve konuşma.
+hayati olan şeyler dinleme ve konuşma. [/speaking]
+    --> dinlerken mesela karşınızdaki kişi konuşuyor sizin
+ingilizce seviyenizin düşük olduğunu bilmiyorsa yavaşlamadan
+konuşacaktır. kısa süre içerisinde yüksek oranda girdiyi
+anlamak gerekiyor.
+    --> hakemlerle konuşurken zorlanıyorum. iletişimsel anlamda
+konuşulanı anlayamıyoruz gibi geri dönüşler oldu.
+
+  [motivation] -- 3 alinti:
+    --> olimpiyatlara katılmak için yani ihtiyaçları olduğunu
+düşünüyorlar. ileride olimpiyatlara gidersem orada ingilizce
+mesela bir mikrofon uzatıldığında ingilizce cevaplayabilirim.
+    --> uluslararası spor müsabakalarına daha fazla katılmış
+yurt dışında daha fazla kamplarda bulunmuş öğrencilerin motivasyonu
+daha fazla oluyor. İsviçreli ile Fransız'ın ingilizce konuşarak
+iletişim kurduğunu görmek bizim sporcumuzu da motive ediyor.
+    --> motivasyon ile ilgili sıkıntı var. antrenmanın var o
+yüzden katılamıyorum diyorlar. devamsızlık sorunu çözülemeyen
+bir soru olarak kalıyor.
+
+  [professional] -- 3 alinti:
+    --> dünyada neler oluyor? mesela belli bir spor branşında
+yeni bir teknik mi çıkmış. onları takip edebilmeleri için ingilizce
+şart. türkiye'deki türkçe literatürde kaldılar ama dünya literatürü
+ingilizce olarak yazılıyor.
+    --> zaman içinde çalışacakları koçların kullandığı dil
+açısından uluslararası kamplarda sadece türk koçları ile değil
+yabancı koşullarda çalışabilmeleri açısından önemli.
+    --> bir röportaj sırasında bir mikrofon uzatıldığında
+alanı ile ilgili konuşabilmeli. bir müsabaka kazandık bir
+röportajda konuşabilmeli.
+
+  [referee] -- 1 alinti:
+    --> [speaking] hakeme dertlerini anlatamayacaklar. ya da
+komiteye. bunu ingilizce bilmedikleri takdirde anlamayacaklar
+karşı tarafa. [/speaking]
+
+  [speaking] -- 3 alinti:
+    --> [daily_life] bu çocuk yurt dışına gittiği zaman kendisini
+en az sıkıntıyla problemlerin çözümlenebilmesi için dili bilmesi
+gerekir. [/daily_life]
+    --> sporcuların kendilerini ifade etme anlamında sıkıntıları
+var. kendini tanıtma anlamında sıkıntıları vardı. sözcük gelişimi
+sözcük bilgisi gelişimi üzerine çalışıyoruz.
+    --> genelde kendimizi ifade etmekte zorlanıyoruz ilk gelen
+şeyler arasında. pratik anlamda ingilizceyi kullanabilmek açısından
+bir röportaj sırasında meydana gelecek görüşmeyi sağlayabilmek
+adına ihtiyacımız var.
+
+  [terminology] -- 1 alinti:
+    --> terimleri kazanmaları adına çalışıyoruz. sporla ilgili
+kelimeler neler onları kendi seviyelerine uygun olarak toplamaya
+özen gösteriyoruz.
+
+  [vocabulary] -- 2 alinti:
+    --> hiç sözcük bilmiyorlarsa ya da çok az sayıda sözcük
+bilgisine sahip iseler bunu da yapamıyorlar. çocuklara sadece
+terminoloji ile o dili kimse konuşamaz.
+    --> [speaking] konuşma becerilerini ilerletmek anlamında
+sıkıntıları var. kelime dizilimleri kurmak anlamında sıkıntıları
+var. cümle nasıl kurulur temel kavramlarla nasıl kendilerini
+ifade edebilirler. [/speaking]
+
+============================================================
+KATILIMCI: Sporcu  (38 alinti)
+============================================================
+
+  [anxiety] -- 2 alinti:
+    --> herkes bana gülmüştü. kendimi çok kötü hissetmiştim.
+o yüzden anladım.
+    --> [speaking] benimle tanışmak isteyen bir yabancı vardı çok
+güzel ingilizce konuşuyordu ama yanımda hoca olmadan ingilizce
+konuşamadığım için bir arkadaşlık kuramadık. [/speaking]
+
+  [daily_life] -- 5 alinti:
+    --> doping kontrolüne girdiğimizde yabancılar alıyor bizi
+kontrole ve orada bir şeyler anlatıyorlar biz anlamıyoruz.
+otelde odada yaşadığımız bir sorun olduğunda çok ihtiyacımız
+oluyor.
+    --> havalimanında çok sıkıntı çekiyoruz. doping kontrolüne
+gidiyoruz mesela orada sıkıntı çekiyoruz. rakiplerimiz bize bir
+şey soruyor cevap veremiyoruz kalıyoruz.
+    --> otel ile ilgili bir sıkıntı olduğu zaman çevirmene
+ihtiyaç duyuyoruz. çevirmen olmadığı zaman kendi işimizi
+halledemiyoruz.
+    --> doping kontrolüne giriyoruz türk yok orada sadece
+yabancılar var ortak dil ingilizce herkes ingilizce konuşuyor.
+yemek şefleriyle rahat konuşamıyoruz.
+    --> dizimden veya bileğimden sakatlanmıştım. buz istemeye
+gideceğim. ne o anlatabiliyor ne de biz anlayabiliyoruz. acil
+bir durumda mesele.
+
+  [foreign_coach] -- 1 alinti:
+    --> [social] yabancı antrenörlerle konuşmak. nasıl
+antrenman yapıyorsun senin antrenmanların nasıl gibi sorular
+sormak istiyoruz ama soramıyoruz. [/social]
+
+  [listening] -- 5 alinti:
+    --> dinlediğim zaman bazen anlayabiliyorum. ingilizce bir
+şey dinlediğimde film falan onları da anlayabiliyorum ama
+konuşmak sıfır.
+    --> [speaking] anlamıyoruz karşıdaki kişinin söylediğini
+kendimizi anlatamıyoruz. dinleme ve konuşmada ihtiyaç
+duyuyorum. En çok zorlandığım dinleme ve konuşma. [/speaking]
+    --> [speaking] dinlediğimde bazen anlayabiliyorum ama cevap
+veremiyorum. konuşmada zorlanıyorum en çok. [/speaking]
+    --> cümle kuramıyorum kelimeleri bilsem de. bir şey
+anlatıyor odaklanıyorum ama belli bir süreden sonra bir kelimeyi
+çeviremezsem dalıyorum ve anlattığı şeylerin çoğunu
+kaçırıyorum.
+    --> best player seçilmiştim bir toplantıya gitmiştik.
+tahtada yazılar vardı bize ders anlatıyor gibi bir ortam vardı.
+orada yazılar geçiyo hiçbir şey anlamıyorsunuz. size soru
+soruyor herkes cevap veriyor siz hiçbir şey yapamıyorsanız.
+
+  [motivation] -- 1 alinti:
+    --> ingilizceyi aslında çok seviyorum. çok fazla da ilgim
+var ama bir türlü yönelemedim. çok fazla yoruluyorum zamanım
+olmuyor.
+
+  [professional] -- 5 alinti:
+    --> hem ileride belki akademik olarak da işime yarar.
+akıcı bir ingilizcem olsun istiyorum herkesle iletişim kurmak
+istiyorum.
+    --> [motivation] olimpiyatlara gitmeyi çok istiyorum.
+orada madalya aldığımda bir konuşma yapmam gerekirse ingilizce
+anlatmak isterim. [/motivation]
+    --> mezun olduktan sonra kendi yetiştireceğim sporculara
+bunu verebilirim. antrenman programlarını birine ihtiyaç olmadan
+öğrenebilirim.
+    --> [social] yurt dışında oynamayı çok istiyorum. oraya
+gittiğimde arkadaşlarımız olacak onlarla diyalog kurmak
+istiyorum sadece sahada değil dışarıda da. [/social]
+    --> [motivation] en büyük hayalim avrupa'da oynamak.
+orada takım arkadaşlarımla iletişim kuramayacağım antrenörümle
+iletişim kuramayacağım en önemlisi o yüzden bu beni
+motive ediyor. [/motivation]
+
+  [referee] -- 3 alinti:
+    --> [speaking] bir haksızlık yapıldığı zaman itiraz etmem
+gerekirse yani anlatamam. hakemler bir haksızlık yaptığı zaman
+kendimi savunmak için. [/speaking]
+    --> bir hata yapıyorsun hakem seninle diyalog kurmak için
+bir şey anlatmak istiyor ama sadece suratına bakıyorsun.
+    --> [competition] hakem bir karar veriyor ve hakeme bir şey
+sormam gerekiyor. hakemlerin kullandığı bazı diller oluyor
+ingilizce söylüyor sana hiçbir şekilde anlamıyorsun. [/competition]
+
+  [social] -- 4 alinti:
+    --> rakiplerimizi tebrik ederken onlarla iletişim kurmaya
+çalıştığımızda biraz oluyor. kendim iletişim kuracağım için
+daha rahat olacağım rakiplerimle konuşabileceğim.
+    --> yurt dışından bir arkadaş edinmek istediğimiz zaman
+olmuyor çünkü ingilizcemiz yetersiz kalıyor.
+    --> yabancı ülkelerdeki arkadaşlarımıza konuşamıyoruz
+mesajlaşamıyoruz e-mail atamıyoruz. çevre kazandırır yabancı
+arkadaşlarla sohbet etmek.
+    --> tüm takımlar aynı otelde kalıyor. diğer sporcularla
+muhabbet sohbet etmeye çalışıyoruz. tişört değiştiriyoruz
+birbirimize hatıralar veriyoruz.
+
+  [speaking] -- 7 alinti:
+    --> [anxiety] benim açımdan konuşma. derdimi anlatabilmek.
+konuşmak sıfır. bir de çok tedirgin oluyorum. o yüzden
+konuşamıyorum. [/anxiety]
+    --> kendimizi ifade edemiyoruz. uluslararası halter federasyonu
+benden ingilizce video istemişti ama ingilizce bilmediğimi
+söylemiştim. orada çok sıkıntı çekmiştim.
+    --> [daily_life] röportaj falan verilmesi gerektiği zaman
+ingilizce bilmiyoruz yapamıyoruz. yemek alırken bile
+cebelleşiyorum. [/daily_life]
+    --> [anxiety] anlıyorum aslında karşıdaki kişinin ne demek
+istediğini ama konuşamıyorum. cümle kuramıyorum kelimeleri
+birleştiremiyorum. [/anxiety]
+    --> [social] insanlarla iletişim kuramıyorsun. hakemlerle
+olsun başka insanlarla senle tanışmak istiyorlar konuşmak
+istiyorlar ama hiçbir şekilde iletişim kuramıyorsun sadece
+suratlarına bakıyorsun. [/social]
+    --> [daily_life] yurt dışına transfer olmak istiyoruz.
+garsondan tuz isteyemeyen insanlar var su isteyemeyen insanlar
+var. iletişim kuramıyorsun. [/daily_life]
+    --> bir hentbolcu olmak var bir sporcu olmak var. insanlarla
+sadece sahada oynayıp hiçbir şey konuşmadan oturmak çok kötü.
+insanlarla iletişim kuracaksın muhabbet edeceksin.
+
+  [terminology] -- 3 alinti:
+    --> faul yapmak ya da yanlış hareket gibi. spor olarak
+anlatılması bence farklı. türkiye'de böyle söylüyoruz başkası
+bunu anlamıyor.
+    --> [competition] maçlara gide gide terimleri öğrendim.
+"good lift" "no lift" ya da yeni rekor kırdığında "new record"
+diyorlar. maçlar esnasında sadece terimlere ihtiyaç
+duyuyorum. [/competition]
+    --> [competition] her spora göre değişiyor. bizim
+kaldırışlarımız esnasında "good lift" ve "no lift". yarışma
+esnasında. [/competition]
+
+  [vocabulary] -- 2 alinti:
+    --> kelime kelime mesela kurallarını bilmediğim için
+kendimi net bir şekilde ifade edemiyorum. konuşma için kelime
+yetersizliğim var.
+    --> kelimeleri bilmediğimiz için cümle kuramıyoruz.
+tek tek kelimeleri veya bir resimle veya elimizle işaret
+ederek gösteriyorduk.
